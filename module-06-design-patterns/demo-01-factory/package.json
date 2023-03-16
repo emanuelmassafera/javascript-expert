@@ -1,0 +1,16 @@
+{
+  "name": "demo-01-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src",
+    "test": "node test/user-factory.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rewiremock": "^3.14.5"
+  }
+}
